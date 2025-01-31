@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="2">
   <diagram name="RAG" id="4Lx7l5kmNal4aG6bvIwU">
-    <mxGraphModel dx="1008" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,20 @@
         </mxCell>
         <mxCell id="vMvsgBCy8JcQdUhkpV6h-25" value="Vector Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="691" y="29" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jU2iNRDZmF5wC3JCrVx_" name="Página-2">
+    <mxGraphModel dx="1008" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vXPwHi8_KcX6zYxiA2Sl-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66FFFF;strokeWidth=21;strokeColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vXPwHi8_KcX6zYxiA2Sl-2" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=130;fontFamily=Tahoma;fontColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="135" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

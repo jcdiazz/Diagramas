@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13">
   <diagram name="Página-1" id="QUS3v_p811vOgtGeiJzy">
-    <mxGraphModel dx="1402" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,38 @@
             <mxPoint x="161" y="189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqqQ_SZE2UaMrdCu42P1-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-8" value="Izipay Holding Tenant Root" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="46.00331298828124" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-10" value="mg-data-platform" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="182.00331298828124" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-11" value="mg-gen-ai" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="182.00331298828124" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-14" value="mg-infraestructure" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="173.00331298828124" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-15" value="dev-mg-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-476" y="319.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-16" value="prd-mg-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-304" y="319.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-17" value="dev-mg-gen-ai" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="321.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-18" value="prd-mg-gen-ai" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="321.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-19" value="mg-monitoring" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="315.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-20" value="mg-billing" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="319.0033129882812" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MqqQ_SZE2UaMrdCu42P1-21" value="mg-devops" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="472" y="315.0033129882812" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

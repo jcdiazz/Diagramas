@@ -158,14 +158,23 @@
         <mxCell id="Sbsju8cylH8IepLFBiH1-1" value="dev-rg-raw-mc60" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Resource-Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="-41" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nL1BFTpCpq5e9dYqTV3J-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Sbsju8cylH8IepLFBiH1-2" target="YSZb8YbcuKvko9kGLWTX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sbsju8cylH8IepLFBiH1-2" value="dev-rg-raw-xnet" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Resource-Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-325" y="-41" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YSZb8YbcuKvko9kGLWTX-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="99" width="50" height="50" as="geometry" />
+        <mxCell id="YSZb8YbcuKvko9kGLWTX-1" value="devstgxnet" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="126" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xbcdN3pgBPeRNSA3yqIA-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b6kOB_fpjcCkDXAEjBfr-1" target="xbcdN3pgBPeRNSA3yqIA-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b6kOB_fpjcCkDXAEjBfr-1" value="dev-rg-stage-df-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Resource-Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="667" y="-41" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xbcdN3pgBPeRNSA3yqIA-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="667" y="126" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

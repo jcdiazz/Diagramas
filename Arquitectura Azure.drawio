@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13" pages="4">
   <diagram name="Azure Data" id="QUS3v_p811vOgtGeiJzy">
     <mxGraphModel dx="2228" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -258,6 +258,38 @@
         </mxCell>
         <mxCell id="cMnQ7qRivD7D-GKQp-Ak-20" value="prd-func-ibk" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Function-Apps.svg;rotation=0;" vertex="1" parent="cMnQ7qRivD7D-GKQp-Ak-1">
           <mxGeometry x="266" y="119" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g8Js9_iBx2Y6-KFeu9rJ" name="Organización de datos">
+    <mxGraphModel dx="1828" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-1" value="prdstgas400" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="-122" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-3" value="Storage Account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-110" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="63" width="49.29" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Container.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-294" y="-23" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="356" width="49.29" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTLJA-lHNQAIjatQm5t-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="-208.29" y="136" width="49.29" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDFNdFJ-4CWN5ENF0_iH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="PtTLJA-lHNQAIjatQm5t-5" target="PtTLJA-lHNQAIjatQm5t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TDFNdFJ-4CWN5ENF0_iH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;startFill=0;" edge="1" parent="1" source="PtTLJA-lHNQAIjatQm5t-5" target="PtTLJA-lHNQAIjatQm5t-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

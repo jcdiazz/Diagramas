@@ -170,7 +170,7 @@
         <mxCell id="Sbsju8cylH8IepLFBiH1-2" value="dev-rg-raw-as400" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Resource-Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-41" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YSZb8YbcuKvko9kGLWTX-1" value="devstgxnet" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg;rotation=0;" vertex="1" parent="1">
+        <mxCell id="YSZb8YbcuKvko9kGLWTX-1" value="devstgas400" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-219" y="119" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xbcdN3pgBPeRNSA3yqIA-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b6kOB_fpjcCkDXAEjBfr-1" target="xbcdN3pgBPeRNSA3yqIA-1">

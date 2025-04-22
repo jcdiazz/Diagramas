@@ -126,8 +126,8 @@
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-28" value="prd-devops" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Subscriptions.svg;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="481.00337402343746" y="470" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vAKSR_gtJuBa4bzOw036-1" value="Management Groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-617" y="48.5" width="147" height="45" as="geometry" />
+        <mxCell id="vAKSR_gtJuBa4bzOw036-1" value="Management Groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-593" y="102" width="147" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -281,7 +281,7 @@
             <mxPoint x="-301.0142000000001" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDFNdFJ-4CWN5ENF0_iH-4" value="Un contenedor por sistema origen (source system)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TDFNdFJ-4CWN5ENF0_iH-4" value="Un contenedor por sistema origen (source system)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-58" width="171" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TDFNdFJ-4CWN5ENF0_iH-14" value="" style="group" vertex="1" connectable="0" parent="1">

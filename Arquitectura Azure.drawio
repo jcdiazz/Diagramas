@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="6">
   <diagram name="Azure Data" id="QUS3v_p811vOgtGeiJzy">
     <mxGraphModel dx="2228" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -554,6 +554,53 @@
         </mxCell>
         <mxCell id="o_me-4PJG8ohQ_5-dnay-5" value="Puede ver a nivel de suscripción&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-145" y="179" width="259" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PBhcNDfQ9JmCx0f2fPYf" name="Página-6">
+    <mxGraphModel dx="2226" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="L0OSSbu7jAZ7yDJvzsxR-2" target="L0OSSbu7jAZ7yDJvzsxR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-2" value="CLIENTE_EVALUAR_GENERAR_ARCHIVO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-457" y="-79" width="272" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-3" value="CLIENTE_DESEMBOLSAR_GENERAR_ARCHIVO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="54.5" width="324" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-4" value="&lt;div&gt;API IZI&lt;/div&gt;custom_evaluated_notify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-457" y="58" width="161" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="-408" y="-202" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-7" value="API IBK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="-81" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-8" value="A IBK se le pasa el sas token + ruta + nombre archivo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="-153" width="144" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-11" value="synapse" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/database-128.png" vertex="1" parent="1">
+          <mxGeometry x="-426" y="232" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="L0OSSbu7jAZ7yDJvzsxR-12" target="L0OSSbu7jAZ7yDJvzsxR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-12" value="Stored Procedure&lt;div&gt;Detalle abonos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-291" y="243" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="L0OSSbu7jAZ7yDJvzsxR-14" target="L0OSSbu7jAZ7yDJvzsxR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-14" value="detalle_abono_ibk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="382" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0OSSbu7jAZ7yDJvzsxR-15" value="API IBK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-188" y="382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

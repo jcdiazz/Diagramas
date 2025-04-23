@@ -447,6 +447,12 @@
         <mxCell id="VKdirrMOMu5gVqYm1fN6-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Groups.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-397" y="-173" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VKdirrMOMu5gVqYm1fN6-3" value="S" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="-44" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VKdirrMOMu5gVqYm1fN6-4" value="Grupos Globales" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="-92" width="134" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

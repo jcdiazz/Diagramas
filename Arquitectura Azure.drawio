@@ -549,8 +549,8 @@
         <mxCell id="o_me-4PJG8ohQ_5-dnay-3" value="Puede editar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-56" y="-64" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o_me-4PJG8ohQ_5-dnay-4" value="Puede ver a nivel de la organización, solo deben estar el equipo de infraestructura y lideres" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="-112" width="515" height="30" as="geometry" />
+        <mxCell id="o_me-4PJG8ohQ_5-dnay-4" value="Puede ver/editar a nivel de la organización, solo deben estar el equipo de infraestructura y lideres" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="-112" width="389" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o_me-4PJG8ohQ_5-dnay-5" value="Puede ver/editar a nivel de suscripción&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-145" y="179" width="259" height="30" as="geometry" />

@@ -133,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AKoWOxi5NKyqHK6a-0EK" name="dev-datalakehouse">
-    <mxGraphModel dx="2226" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2039" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,6 +193,9 @@
         </mxCell>
         <mxCell id="w5LEHv0ncTSTlYViGyeY-3" value="dev-func-ibk" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Function-Apps.svg;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="266" y="119" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j_PzWBI9UBGJizhgOFAH-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xbcdN3pgBPeRNSA3yqIA-3" target="xbcdN3pgBPeRNSA3yqIA-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -437,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J8ssDSoBTDtqWLyViNnr" name="Roles">
-    <mxGraphModel dx="1639" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

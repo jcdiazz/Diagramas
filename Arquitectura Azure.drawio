@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J8ssDSoBTDtqWLyViNnr" name="Roles">
-    <mxGraphModel dx="1826" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,14 +552,14 @@
         <mxCell id="o_me-4PJG8ohQ_5-dnay-4" value="Puede ver a nivel de la organización, solo deben estar el equipo de infraestructura y lideres" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-198" y="-112" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o_me-4PJG8ohQ_5-dnay-5" value="Puede ver a nivel de suscripción&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o_me-4PJG8ohQ_5-dnay-5" value="Puede ver/editar a nivel de suscripción&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-145" y="179" width="259" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="PBhcNDfQ9JmCx0f2fPYf" name="Página-6">
-    <mxGraphModel dx="2226" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

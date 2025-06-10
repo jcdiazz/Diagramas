@@ -37,8 +37,11 @@
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MqqQ_SZE2UaMrdCu42P1-10" target="MqqQ_SZE2UaMrdCu42P1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pYuV4F32H-9ZV8Gmysha-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MqqQ_SZE2UaMrdCu42P1-10" target="pYuV4F32H-9ZV8Gmysha-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-10" value="mg-data-platform" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-391" y="182.00331298828124" width="50" height="50" as="geometry" />
+          <mxGeometry x="-433" y="182.00331298828124" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MqqQ_SZE2UaMrdCu42P1-11" target="MqqQ_SZE2UaMrdCu42P1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-15" value="dev-mg-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-493" y="319.0033129882812" width="50" height="50" as="geometry" />
+          <mxGeometry x="-433" y="319.0033129882812" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MqqQ_SZE2UaMrdCu42P1-16" target="MqqQ_SZE2UaMrdCu42P1-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +109,7 @@
           <mxGeometry x="481" y="319.0033129882812" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-22" value="dev-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Subscriptions.svg;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-492.99662597656254" y="470" width="50" height="50" as="geometry" />
+          <mxGeometry x="-432.99662597656254" y="470" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MqqQ_SZE2UaMrdCu42P1-23" value="prd-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Subscriptions.svg;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-291.99662597656254" y="470" width="50" height="50" as="geometry" />
@@ -127,7 +130,16 @@
           <mxGeometry x="481.00337402343746" y="470" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAKSR_gtJuBa4bzOw036-1" value="Management Groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-541.5" y="602" width="147" height="45" as="geometry" />
+          <mxGeometry x="-626" y="105" width="147" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pYuV4F32H-9ZV8Gmysha-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pYuV4F32H-9ZV8Gmysha-2" target="pYuV4F32H-9ZV8Gmysha-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYuV4F32H-9ZV8Gmysha-2" value="mig-mg-datalakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Management-Groups.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-579" y="319" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pYuV4F32H-9ZV8Gmysha-3" value="CSPAZURE_Procesos &#xa;de Medios de Pago S.A" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.benco.io/icon-collection/azure-icons/Subscriptions.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-578.9966259765625" y="469.9966870117188" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
